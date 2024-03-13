@@ -1,0 +1,48 @@
+.list{
+
+    background-color: rgb(57, 71, 71);
+    text-align: center;
+    
+    }
+    
+    ul>li{
+    text-align: center;
+        list-style-type: none;
+        display: inline-block;
+        padding: 15px;
+        color: white;
+    }
+    ul, a{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+    }
+
+
+    footer{
+        text-align: center; 
+        width: 100%; 
+        height: 2px;
+       margin: 0;
+       padding: 1;
+       color: white;
+           }
+           img{
+width: 200px;
+height: 200px;
+padding-left: 90px;
+padding-right: 90px;
+border: 1px solid white;
+           }
+           body{
+background-color: black;
+font-family:  cursive,verdana;
+
+           }
+           a :hover{
+
+width: 180px;
+height: 180px;
+opacity: 70%;
+           }
